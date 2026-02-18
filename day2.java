@@ -9,7 +9,7 @@ class day2{
 		b=sc.nextDouble();
 		a=l*b;
 		System.out.println("Area = " + a );
-		scanner.close();
+		sc.close();
 }
 }
 		
